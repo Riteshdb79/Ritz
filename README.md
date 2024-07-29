@@ -1,2 +1,2 @@
 # Ritz
-1st Repository
+DevOps Sample
